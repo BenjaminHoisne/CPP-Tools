@@ -1,0 +1,8 @@
+C:\Users\benja\Documents\GitHub\CPP\CSVCreator\x64\Debug\sfml-audio-d-3.dll
+C:\Users\benja\Documents\GitHub\CPP\CSVCreator\x64\Debug\sfml-system-d-3.dll
+C:\Users\benja\Documents\GitHub\CPP\CSVCreator\x64\Debug\vorbis.dll
+C:\Users\benja\Documents\GitHub\CPP\CSVCreator\x64\Debug\ogg.dll
+C:\Users\benja\Documents\GitHub\CPP\CSVCreator\x64\Debug\vorbisfile.dll
+C:\Users\benja\Documents\GitHub\CPP\CSVCreator\x64\Debug\vorbisenc.dll
+C:\Users\benja\Documents\GitHub\CPP\CSVCreator\x64\Debug\FLAC.dll
+C:\Users\benja\Documents\GitHub\CPP\CSVCreator\CSVCreator\x64\Debug\CSVCreat.7C4985EA.Up2Date
